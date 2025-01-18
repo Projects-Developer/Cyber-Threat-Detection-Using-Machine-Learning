@@ -1,4 +1,4 @@
-# Cyber-Threat-Detection-Using-Machine-Learning
+# Cyber Threat Detection Using Machine Learning
 Cyber threat detection using machine learning With Code, Documents And Video Tutorial
 
 ![Cyber Threat](https://github.com/user-attachments/assets/39056f78-19c8-46f4-8c9f-3e6fb9388115)
